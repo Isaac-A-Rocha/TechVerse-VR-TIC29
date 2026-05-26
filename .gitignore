@@ -21,5 +21,7 @@
 /[Cc]rash[[Rr]eports]/
 /[Ll]ogs/
 /[Uu]nityConfiguration.gen.json
+/UserSettings/
+/Recordings/
 .DS_Store
 Thumbs.db
